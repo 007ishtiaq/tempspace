@@ -1,0 +1,9 @@
+.product-stock-pie-charts {
+  display: flex;
+  justify-content: space-around;
+}
+
+.pie-chart {
+  text-align: center;
+  margin: 20px;
+}
